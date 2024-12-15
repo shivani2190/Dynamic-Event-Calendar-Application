@@ -1,3 +1,5 @@
+![Calendar](https://github.com/user-attachments/assets/ac75ffdc-1d26-4d4a-9e23-fce4bd23d839)
+
 # Event Calendar App
 
 A modern, interactive calendar application built with React, TypeScript, and Tailwind CSS.
